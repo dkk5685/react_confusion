@@ -8,7 +8,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkk5685/react_confusion.git"
+  }
+  "author": "Danielle Kurek",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
